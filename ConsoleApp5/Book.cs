@@ -17,6 +17,5 @@ namespace ConsoleApp5
         { 
             return Price * 3; 
         }
-
     }
 }
